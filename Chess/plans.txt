@@ -1,0 +1,9 @@
+A tutorial like how to make chess in C++ lol.
+
+1. Creating an interface. No, well, we're not going to play binary chess, right?
+2. Creating the logic of chess. This is understandable. The main thing is not to make a mistake and not to make tic-tac-toe or even worse a naval battle.
+3. Fix bugs. Well, where can I go without him?????!
+4 - 10. Doing, correcting, doing, correcting, doing, correcting.
+11. Release. REALLY?????! finally!!!!!!!!!!!!!!!!!!!!!!!
+
+And yes, this is an approximate view of the project. Do not judge strictly (otherwise you will stand in a corner >:) )
